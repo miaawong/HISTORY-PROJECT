@@ -1,0 +1,48 @@
+header{ 
+	background:#82CAFF; 
+}
+body{
+	margin:0;
+}
+body {
+	background: #82CAFF;
+	font-family: arial;
+} 
+header h1{
+	margin:0;
+	display: inline
+	text-align: center;
+	background:#BDEDFF;
+	color: A74AC7;
+	padding: 15px;
+}
+nav ul{ 
+	margin:0;
+	padding: 0 0 0 15px;
+	display: inline;
+} 
+nav ul li{ 
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 5px;
+}
+h1{ 
+	text-align: center;
+}
+h1, h2 li {
+	color: #A74AC7;
+	text-align: center;
+}
+div{
+	color:#000;
+	display: block;
+	background-color:black;color:white;padding:20px;
+}
+nav{ 
+	text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
